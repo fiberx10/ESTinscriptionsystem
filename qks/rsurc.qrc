@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>about.png</file>
+    <file>inconu.jpg</file>
+  </qresource>
+</RCC>
